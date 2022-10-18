@@ -1,0 +1,16 @@
+.btn_button {
+    background-color: #55f;
+    text-decoration-color: white;
+    color: white;
+    font-size: 1.2rem;
+    padding: 5px;
+    margin: 2px;
+}
+
+.increamentBy-button:hover{
+    background-color: red;
+    
+}
+.btn_button:hover {
+    background-color: rgb(16, 16, 216);
+}
